@@ -1,0 +1,3 @@
+This 100Lind added with r+.
+ is the 2nd line
+This line is appended after the lines.
